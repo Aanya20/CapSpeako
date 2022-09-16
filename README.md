@@ -1,3 +1,3 @@
 # CapSpeako
 <hr>
-Deep learning algo for sign language translator
+Deep learning algorithm for sign language translatoion
